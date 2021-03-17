@@ -5,6 +5,7 @@ version = "0.3.8"
 
 [deps]
 Indexing = "313cdc1a-70c2-5d6a-ae34-0150d3930a38"
+Publish = "f065f642-d108-4f50-8aa5-6749150a895a"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 
 [extras]
